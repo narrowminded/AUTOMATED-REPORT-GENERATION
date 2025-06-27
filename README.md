@@ -93,7 +93,7 @@ To run this script, you will need Python installed on your system along with the
 1.  **Clone the Repository (or download the script):**
 
     ```bash
-    git clone https://github.com/narrowminded/automated-data-analysis.git
+    git clone https://github.com/narrowminded/AUTOMATED-REPORT-GENERATION.git
     cd automated-data-analysis
     ```
 
