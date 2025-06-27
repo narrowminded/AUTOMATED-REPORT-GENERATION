@@ -119,4 +119,5 @@ To run this script, you will need Python installed on your system along with the
 
 After running the script, various statistical summaries will be printed to the console, and several `.png` image files (representing different plots) will be saved in the specified output directory (e.g., `plots/`).
 
+![Image](https://github.com/user-attachments/assets/1c506a0c-7508-4e2d-93d3-26f12da0d435)
 ![Image](https://github.com/user-attachments/assets/d1b22bf3-4363-4088-8b8a-dc6d447169b6)
