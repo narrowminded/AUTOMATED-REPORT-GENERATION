@@ -101,8 +101,23 @@ To run this script, you will need Python installed on your system along with the
 
 2.  **Ensure you have your CSV data file:**
     Place your `sales_data.csv` (or whatever your data file is named) in the same directory as the `automated.py` script, or update the `CSV_FILE_PATH` variable in the script to point to your file's location.
+    ```
+    Date,Product,Category,Units Sold,Revenue
+     2023-01-15,Laptop,Electronics,50,45000
+     2023-01-17,Smartphone,Electronics,120,60000
+     2023-01-20,T-Shirt,Apparel,250,7500
+     2023-02-10,Laptop,Electronics,30,27000
+     2023-02-12,Jeans,Apparel,150,9000
+     2023-02-22,Headphones,Electronics,200,10000
+     2023-03-05,Mug,Home Goods,300,1500
+     2023-03-16,T-Shirt,Apparel,180,5400
+     2023-03-25,Smartphone,Electronics,90,48000
+     2023-04-11,Keyboard,Electronics,110,5500
+     2023-04-19,Mug,Home Goods,400,2000
+     2023-04-28,Jeans,Apparel,100,6000
+    ```
 
-3.  **Install Dependencies:**
+4.  **Install Dependencies:**
     It's highly recommended to use a virtual environment to manage project dependencies.
 
     ```bash
@@ -111,7 +126,7 @@ To run this script, you will need Python installed on your system along with the
     pip install pandas matplotlib seaborn
     ```
 
-4.  **Run the Script:**
+5.  **Run the Script:**
 
     ```bash
     python automated.py
